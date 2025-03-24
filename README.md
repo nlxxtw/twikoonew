@@ -1,7 +1,7 @@
 <a href="https://twikoo.js.org/"><img src="./docs/static/logo.png" width="300" alt="Twikoo"></a>
 
 ----
-
+#### vercel构建设置中的Root Directory选择为src/server/vercel-min后再部署
 [![](https://img.shields.io/npm/v/twikoo)](https://www.npmjs.com/package/twikoo)
 [![](https://img.shields.io/bundlephobia/minzip/twikoo)](https://bundlephobia.com/result?p=twikoo)
 [![](https://img.shields.io/npm/dt/twikoo)](https://www.npmjs.com/package/twikoo)
