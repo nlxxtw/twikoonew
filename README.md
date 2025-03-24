@@ -1,12 +1,15 @@
 <a href="https://twikoo.js.org/"><img src="./docs/static/logo.png" width="300" alt="Twikoo"></a>
 
 ----
-#### vercel构建设置中的Root Directory选择为src/server/vercel-min后再部署
 [![](https://img.shields.io/npm/v/twikoo)](https://www.npmjs.com/package/twikoo)
 [![](https://img.shields.io/bundlephobia/minzip/twikoo)](https://bundlephobia.com/result?p=twikoo)
 [![](https://img.shields.io/npm/dt/twikoo)](https://www.npmjs.com/package/twikoo)
 [![](https://data.jsdelivr.com/v1/package/npm/twikoo/badge)](https://www.jsdelivr.com/package/npm/twikoo)
 [![](https://img.shields.io/npm/l/twikoo)](./LICENSE)
+
+
+
+## vercel构建设置中的Root Directory选择为src/server/vercel-min后再部署
 
 一个**简洁**、**安全**、**免费**的静态网站评论系统。<br>
 A **simple**, **safe**, **free** comment system.  
